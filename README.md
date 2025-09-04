@@ -1,1 +1,1 @@
-# motd
+Motd
