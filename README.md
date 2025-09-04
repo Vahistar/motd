@@ -8,8 +8,8 @@
 #    | $$    $$| $$   \$$  $$ \$$     \| $$  | $$ \$$    $$|       $$   \$$  $$
 #     \$$$$$$$  \$$    \$$$$   \$$$$$$$ \$$   \$$  \$$$$$$  \$$$$$$$     \$$$$ 
 #                                                                              
-#     Minecraft Install Instructions [v1.0]                                                                          
+#     🚀 Minecraft Install Instructions [v1.0]                                                                          
 #     by Vahistar & vLunchi     
 #
  
-Jakiś randomowy text
+
