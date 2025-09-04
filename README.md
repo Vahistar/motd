@@ -8,9 +8,14 @@
 #    | $$    $$| $$   \$$  $$ \$$     \| $$  | $$ \$$    $$|       $$   \$$  $$
 #     \$$$$$$$  \$$    \$$$$   \$$$$$$$ \$$   \$$  \$$$$$$  \$$$$$$$     \$$$$ 
 #                                                                              
-#     🚀  Minecraft server sofware installation instructions [v1.0]                                                                          
+#     🚀  Minecraft server software installation instructions [v1.0]                                                                          
 #     by Vahistar & vLunchi     
 #
+ ad
+ ads
+ dsa
  
-
+ da
+ sd
+ 
 [https://wp.pl](link)
