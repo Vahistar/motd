@@ -30,7 +30,7 @@
             - Versions – to install a clean server (Paper, Forge, Fabric, proxy, etc.)
             - Modpacks – to install with just one click from the catalog of modpacks
       3) After entering the chosen category, simply select the version or modpack you prefer and click Install.
-          # Tip: For a smooth installation, remove all existing files first (you’ll see a popup for this).
+            # Tip: For a smooth installation, remove all existing files first (you’ll see a popup for this)
  
       That’s it 🎉
       Your server is now ready to use! If you need any help, don’t hesitate to reach out to us on Discord.
