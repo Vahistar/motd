@@ -25,7 +25,7 @@
 #
  
       Here are the steps to install any version you want (yep, even modpacks!) :3
-      1) In the left-hand navigation bar, click the “More” button.
+      1) In the navigation bar, click the “More” button.
       2) From the options, choose:
             - Versions – to install a clean server (Paper, Forge, Fabric, proxy, etc.)
             - Modpacks – to install from the catalog of modpacks from various sources with just one click
