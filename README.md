@@ -8,7 +8,7 @@
 #    | $$    $$| $$   \$$  $$ \$$     \| $$  | $$ \$$    $$|       $$   \$$  $$
 #     \$$$$$$$  \$$    \$$$$   \$$$$$$$ \$$   \$$  \$$$$$$  \$$$$$$$     \$$$$ 
 #                                                                              
-#     🚀  Minecraft Install Instructions [v1.0]                                                                          
+#     🚀  Minecraft server sofware installation instructions [v1.0]                                                                          
 #     by Vahistar & vLunchi     
 #
  
