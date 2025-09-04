@@ -11,13 +11,13 @@
 #     🚀  Minecraft server software installation instructions [v1.0]                                                                          
 #     by Vahistar & vLunchi     
 #                                                               
-#     🎉 Hey there!                        
+#     🎉  Hey there!                        
 # 
 #     Thanks a lot for choosing our hosting 🚀  
 #     We hope you’ll have an awesome time using it 💻✨  
 # 
 #     If you ever wanna hang out, need help, or just chill,  
-#     join us on Discord 👉 https://discord.bitehost.me 👈
+#     join us on Discord 👉  https://discord.bitehost.me 👈
 # 
 #     Have fun with your server and see you on Discord! 👋
 #
