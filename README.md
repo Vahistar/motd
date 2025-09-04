@@ -28,7 +28,7 @@
       1) In the navigation bar, click the “More” button.
       2) From the options, choose:
             - Versions – to install a clean server (Paper, Forge, Fabric, proxy, etc.)
-            - Modpacks – to install from the catalog of modpacks from various sources with just one click
+            - Modpacks – to install with just one click from the catalog of modpacks
       3) After entering the chosen category, simply select the version or modpack you prefer and click Install.
           # Tip: For a smooth installation, remove all existing files first (you’ll see a popup for this).
  
