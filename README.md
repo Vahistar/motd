@@ -26,9 +26,9 @@
  
       Here are the steps to install any version you want (yep, even modpacks!) :3
       1) In the left-hand navigation bar, click the “More” button.
-      2) From the available options, select:
-          - Versions – if you’d like to install a clean Minecraft server (no modpacks, just the engine such as Paper, Forge, Fabric, or even a proxy).
-          - Modpacks – if you’d like to install a specific modpack. You’ll get access to a catalog of modpacks from various sources, ready to install with just one click.
+      2) From the options, choose:
+            - Versions – to install a clean server (Paper, Forge, Fabric, proxy, etc.)
+            - Modpacks – to install from the catalog of modpacks from various sources with just one click
       3) After entering the chosen category, simply select the version or modpack you prefer and click Install.
           # Tip: For a smooth installation, remove all existing files first (you’ll see a popup for this).
  
