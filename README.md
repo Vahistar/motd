@@ -21,7 +21,7 @@
 #     If you ever wanna hang out, need help, or just chill,  
 #     join us on Discord 👉  https://discord.bitehost.me 👈
 # 
-#     Have fun with your server and see you on Discord! 👋
+#     Have fun with your server and see you around! 👋
 #
  
       Here are the steps to install any version you want (yep, even modpacks!) :3
