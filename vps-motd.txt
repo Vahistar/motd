@@ -1,0 +1,20 @@
+#
+# ██████╗░██╗████████╗███████╗██╗░░██╗░█████╗░░██████╗████████╗ 
+# ██╔══██╗██║╚══██╔══╝██╔════╝██║░░██║██╔══██╗██╔════╝╚══██╔══╝ 
+# ██████╦╝██║░░░██║░░░█████╗░░███████║██║░░██║╚█████╗░░░░██║░░░ 
+# ██╔══██╗██║░░░██║░░░██╔══╝░░██╔══██║██║░░██║░╚═══██╗░░░██║░░░ 
+# ██████╦╝██║░░░██║░░░███████╗██║░░██║╚█████╔╝██████╔╝░░░██║░░░  
+# ╚═════╝░╚═╝░░░╚═╝░░░╚══════╝╚═╝░░╚═╝░╚════╝░╚═════╝░░░░╚═╝░░░ 
+# by InBite Group
+#
+#   ⚠️  SECURITY NOTICE
+#
+#   All SSH and SFTP connections to this server are monitored.  
+#   Every login and executed command is logged and archived.    
+#
+#   The network administrator is automatically notified         
+#   of any login attempts.
+#
+#   Unauthorized access is STRICTLY PROHIBITED.
+#   Any suspicious activity will be reported to authorities.     
+#
